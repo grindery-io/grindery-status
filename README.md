@@ -4,11 +4,11 @@ This repository contains a single JSON file that represents the status of variou
 
 The status of each service is represented as either "on" or "off" (boolean true/false).
 
-Additionally the file contains status of various activities available for the user.
+Additionally the file contains the status of various activities available for the user.
 
 ## File Structure
 
-The JSON file has a simple structure. There are two main groups: `services` and `activity`. Each key in the group is name of a service and the value is the status of the service.
+The JSON file has a simple structure. There are two main groups: `services` and `activity`. Each key in the group is name of a service or activity and the value is the status of the service/activity.
 
 ```
 {
