@@ -10,7 +10,7 @@ Additionally the file contains status of various activities available for the us
 
 The JSON file has a simple structure. There are two main groups: `services` and `activity`. Each key in the group is name of a service and the value is the status of the service.
 
-```json
+```
 {
   "services": {
     "bot_api": true // change to `false` to indicate that service is down
