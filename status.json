@@ -1,0 +1,17 @@
+{
+  "services": {
+    "grindery_bot_api": true,
+    "grindery_wallet_api": true,
+    "patchwallet_api": true,
+    "ankr_api": true,
+    "enso_api": true,
+    "lifi_api": true
+  },
+  "activity": {
+    "send": true,
+    "swap": true,
+    "bridge": true,
+    "on-ramp": true,
+    "withdraw": true
+  }
+}
